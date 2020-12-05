@@ -1,6 +1,6 @@
-# Point of sale ⚛️
+# React Base ⚛️
 
-Point of sale for the shops using Webpack, Babel, GraphQL, React Hooks, React Router, SEO, PWAs and Vercel.
+Base on React to create a new project with all necessary and optimized settings using Webpack, Babel, GraphQL, React Hooks, React Router, SEO, PWAs.
 
 🟢 **Live Frontend:**
 
